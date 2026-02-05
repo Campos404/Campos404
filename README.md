@@ -1,7 +1,5 @@
 <h2 align="center">Hey there! My name is Campos and I'm a recent CS grad 😇</h2>
 
-<h3 align="center">You can check out my Digital Portfolio <a href="https://campos404.github.io/CV-Digital/" target="_blank">here</a>.</h3>
-
 ###
 
 <!-- <div align="center">
@@ -13,18 +11,16 @@
 
 <img align="right" height="150" src="https://media.tenor.com/vqhXfJzaNLwAAAAM/turtwig-pokemon.gif"  />
 
-###
-
 <div align="center">
+  <h3>You can check out my Digital Portfolio <a href="https://campos404.github.io/CV-Digital/" target="_blank">here</a>.</h3>
   <a href="mailto:joaoccamposdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joaoccamposdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <h3>Software Engineer @ <a href="https://www.neptune-software.com/" target="_blank">Neptune Software</a></h3>
 </div>
-
-<h3 align="center">Software Engineer @ <a href="https://www.neptune-software.com/" target="_blank">Neptune Software</a></h3>
 
 ###
 
